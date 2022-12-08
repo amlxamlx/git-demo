@@ -3,6 +3,5 @@ Hello Git! Hello Web!
 Hello Git! Hello Web!
 Hello Git! Hello Web!
 Hello Git! Hello Web!
-Hello Git! Hello Web!
-insert in hot-fix branch
+Hello Git! Hello Web! hot-fix test
 
