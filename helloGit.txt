@@ -2,11 +2,5 @@ Hello Git! Hello Web! 666666
 Hello Git! Hello Web!
 Hello Git! Hello Web!
 Hello Git! Hello Web!
-Hello Git! Hello Web!
-<<<<<<< HEAD
-Hello Git! Hello Web!
 Hello Git! Hello Web! master test
-=======
 Hello Git! Hello Web! hot-fix test
->>>>>>> hot-fix
-
